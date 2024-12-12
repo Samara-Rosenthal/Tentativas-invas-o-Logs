@@ -1,4 +1,4 @@
-# Tentativas-invas-o-Logs
+# Tentativas-invasao-Logs
 Detecção de Tentativas de Invasão em Logs
 
 def detectar_invasao(registros):
